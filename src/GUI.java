@@ -38,6 +38,7 @@ public class GUI extends JFrame {
         group.add(RBbest);
     }
 
+
     private void components() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setContentPane(panel);
